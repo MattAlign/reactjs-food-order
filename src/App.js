@@ -6,7 +6,7 @@ import Cart from './components/Cart/Cart';
 function App() {
   return (
     <CartProvider>
-      <Cart />
+      <Cart /> 
       <Header />
       <main>
         <Meals />
