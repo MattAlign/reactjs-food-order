@@ -4,6 +4,7 @@ import CartProvider from './store/CartProvider';
 import Cart from './components/Cart/Cart';
 
 function App() {
+  
   return (
     <CartProvider>
       <Cart /> 
