@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+//added this comment line.
+
 import Header from "./components/Layout/Header";
 import Meals from "./components/Meals/Meals";
 import CartProvider from "./store/CartProvider";
